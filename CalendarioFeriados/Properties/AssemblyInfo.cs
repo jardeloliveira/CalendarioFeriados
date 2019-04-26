@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
 [assembly: AssemblyTitle("CalendarioFeriados")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Consulta feriados")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("arcasoftwares")]
 [assembly: AssemblyProduct("CalendarioFeriados")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Arca Softwares")]
+[assembly: AssemblyTrademark("Arca Softwares")]
 [assembly: AssemblyCulture("")]
 
 // Definir ComVisible como false torna os tipos neste assembly invisíveis
